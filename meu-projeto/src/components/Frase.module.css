@@ -1,0 +1,10 @@
+.fraseContainer {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: gray;
+    border: 1px solid black;
+}
+
+.fraseContent {
+    color: white;
+    background-color: gray;
+}
